@@ -42,4 +42,4 @@ Frontend is licensed under [MIT](https://opensource.org/licenses/MIT) for flexib
 
 ## 📫 Contact
 
-- Questions or ideas? Start a discussion or contact me at (darshjindal537@gmail.com)[darshjindal537@gmail.com]
+- Questions or ideas? Start a discussion or contact me at [darshjindal537@gmail.com](mailto:darshjindal537@gmail.com)
