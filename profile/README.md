@@ -10,7 +10,7 @@
 
 | Repo | Description |
 |------|-------------|
-| [`deepply-backend`](https://github.com/DeepPly/deepply-backend) | Django-based backend powering game uploads, PGN parsing, Stockfish integration, and AI-driven analysis. |
+| [`deepply-backend`](https://github.com/DeepPly/deepply-backend) | FastAPI-based backend powering game uploads, PGN parsing, Stockfish integration, and AI-driven analysis. |
 | [`deepply-frontend`](https://github.com/DeepPly/deepply-frontend) | Modern frontend for users to upload games, view evaluations, and chat with an AI coach. |
 
 ---
