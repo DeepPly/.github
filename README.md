@@ -1,4 +1,4 @@
-# 🧠 DeepPly
+# DeepPly
 
 **Train smarter. Play stronger. Analyze every ply.**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Repositories
+## Repositories
 
 | Repo | Description |
 |------|-------------|
@@ -17,28 +17,28 @@
 
 ---
 
-## 🚀 Core Features
+## Core Features
 - Play out your game on an interactive board
 - Automatically detect tactical and positional mistakes
 
 ---
 
-## 💡 Project Vision
+## Project Vision
 
 DeepPly aims to make high-level chess insight accessible to anyone — not just titled players. With a focus on educational value, this project combines engine precision with human-like explanation to provide an online training assistant experience.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome ideas, pull requests, and testing help from developers and chess enthusiasts.
 
-> ⚠️ Note: The backend is protected under the [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) license to ensure it is not used in closed-source or commercial services without proper credit and openness.
+> Note: The backend is protected under the [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html) license to ensure it is not used in closed-source or commercial services without proper credit and openness.
 
 Frontend is licensed under [MIT](https://opensource.org/licenses/MIT) for flexibility.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Questions or ideas? Start a discussion or contact me at [darshjindal537@gmail.com](mailto:darshjindal537@gmail.com)
