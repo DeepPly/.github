@@ -4,6 +4,8 @@
 
 **DeepPly** is an open-source AI-powered chess assistant designed to help players improve through deep analysis, personalized feedback, and smart coaching. From tactical blunders to strategic insights, DeepPly gives you the tools to understand *why* you made mistakes — and how to fix them.
 
+**NOTE: The full webapp has not been made! For this ship, you can get game reviews by playing out your moves on the interactive chess board after login. The ai features havent been made yet**
+
 ---
 
 ## 🔧 Repositories
@@ -16,11 +18,8 @@
 ---
 
 ## 🚀 Core Features
-- Upload PGN files from online or OTB games
+- Play out your game on an interactive board
 - Automatically detect tactical and positional mistakes
-- Receive custom feedback based on your rating range
-- View annotated boards and explanations
-- Ask AI follow-up questions about moves and suggestions
 
 ---
 
